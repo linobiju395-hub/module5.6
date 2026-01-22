@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useRef } from 'react';
-import { SPACE_BLOCKS } from '../constants';
+import { SPACE_BLOCKS } from './constants';
 import { Play, RotateCcw, Trash2, Trophy, Zap, Star, AlertCircle, Radio, Drill, ChevronRight, Loader2, Target } from 'lucide-react';
 
 interface Point {
