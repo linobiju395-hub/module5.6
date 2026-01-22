@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useRef } from 'react';
-import { AVAILABLE_BLOCKS, MAZE_LEVELS } from '../constants';
+import { AVAILABLE_BLOCKS, MAZE_LEVELS } from './constants';
 import { Play, RotateCcw, Trash2, AlertTriangle, Trophy, Zap, ArrowRight, ArrowUp, ArrowDown, ArrowLeft, ArrowRight as ArrowRightIcon, Terminal } from 'lucide-react';
 import { CartoonBat, CartoonOwl, CartoonParrot } from './BirdSkins';
 
