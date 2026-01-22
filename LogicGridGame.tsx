@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useRef } from 'react';
-import { AVAILABLE_BLOCKS } from '../constants';
+import { AVAILABLE_BLOCKS } from './constants';
 // Added AlertCircle to the imports from lucide-react
 import { Play, RotateCcw, Trash2, Trophy, Zap, Star, Map, Shield, ChevronRight, Loader2, Key, AlertCircle } from 'lucide-react';
 import { CartoonBat, CartoonOwl, CartoonParrot } from './BirdSkins';
