@@ -2,8 +2,8 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import { COURSE_MODULES } from './constants';
 import { Module, Lesson, UserProgress } from './types';
-import  BlockEditor from './src/today/BlockEditor';
-import  Shop from './src/today/Shop';
+import  BlockEditor from './today/BlockEditor';
+import  Shop from './today/Shop';
 import { ArrowLeft, Zap, TreePine, Moon, Rocket, Star, ChevronRight, Coins, ShoppingBag, Check, Lock, RefreshCcw, Home } from 'lucide-react';
 
 const App: React.FC = () => {
