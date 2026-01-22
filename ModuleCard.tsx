@@ -1,6 +1,6 @@
 
 import React from 'react';
-import { Module } from '../types';
+import { Module } from './types';
 import { Lock, CheckCircle, PlayCircle, Zap } from 'lucide-react';
 
 interface ModuleCardProps {
