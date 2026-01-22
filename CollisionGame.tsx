@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useRef } from 'react';
-import { AVAILABLE_BLOCKS } from '../constants';
+import { AVAILABLE_BLOCKS } from './constants';
 import { Play, RotateCcw, Trash2, Trophy, Sparkles, Wind, Zap, Star, AlertCircle, CloudLightning } from 'lucide-react';
 import { CartoonBat, CartoonOwl, CartoonParrot } from './BirdSkins';
 
