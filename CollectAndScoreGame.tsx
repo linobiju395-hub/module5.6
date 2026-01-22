@@ -1,6 +1,6 @@
 
 import React, { useState, useEffect, useRef } from 'react';
-import { VARIABLE_BLOCKS } from '../constants';
+import { VARIABLE_BLOCKS } from './constants';
 import { Play, RotateCcw, Trash2, Trophy, Zap, MousePointer2, Sparkles, ArrowLeft, ArrowRight, Hash, Plus, Terminal, Cpu } from 'lucide-react';
 import { CartoonBat, CartoonOwl, CartoonParrot } from './BirdSkins';
 
