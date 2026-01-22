@@ -3,7 +3,7 @@ import React, { useState, useEffect, useMemo } from 'react';
 import { COURSE_MODULES } from './constants';
 import { Module, Lesson, UserProgress } from './types';
 import { BlockEditor } from './components/BlockEditor.tsx';
-import { Shop } from './components/Shop';
+import { Shop } from './components/Shop.tsx';
 import { ArrowLeft, Zap, TreePine, Moon, Rocket, Star, ChevronRight, Coins, ShoppingBag, Check, Lock, RefreshCcw, Home } from 'lucide-react';
 
 const App: React.FC = () => {
